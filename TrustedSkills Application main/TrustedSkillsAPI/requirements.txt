@@ -1,0 +1,1 @@
+pip install flask flask-cors azure-cognitiveservices-vision-computervision msrest pdfminer.six python-docx werkzeug

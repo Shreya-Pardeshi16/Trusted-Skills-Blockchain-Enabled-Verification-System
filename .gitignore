@@ -1,0 +1,10 @@
+.metadata/
+*.index
+.settings/
+.classpath
+.project
+node_modules/
+target/
+bin/
+TrustedSkills Application main/TrustedSkills 30/TrustedSkills/src/main/resources/credentials.json
+TrustedSkills Application main/TrustedSkills 30/TrustedSkills/src/main/java/beans/GetConnection.java
